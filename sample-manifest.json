@@ -1,12 +1,12 @@
 {
-  "export_job_id": "29cb8ba0-5a4e-45c5-982a-e62b702f55d5",
+  "export_job_id": "a2e34387-22d5-4236-8242-2a1644e3052d",
   "id_short": 905381,
-  "published_at": "2026-04-15T19:56:05Z",
+  "published_at": "2026-04-19T19:13:27Z",
   "repo_name": "all-restaurants-in-santa-clarita-california-us-sample-905381",
   "sample_asset_name": "beamstation_905381_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/905381/beamstation_905381_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 68,
-  "sample_sha256": "ba4750017366bb6eceec920f573bc09a69a96d4b40acefe554a2b1f11988f331",
-  "sample_size_bytes": 280031,
-  "total_records": 684
+  "sample_records": 66,
+  "sample_sha256": "4e8db63688b885f6cafe0d7b6ea79aab9a7cf443ae70df779a0d0263adab15c1",
+  "sample_size_bytes": 260128,
+  "total_records": 660
 }
