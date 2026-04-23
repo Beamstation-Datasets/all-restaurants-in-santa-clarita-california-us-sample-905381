@@ -9,9 +9,9 @@
 | Dataset ID | `905381` |
 | Location | Santa Clarita |
 | Category | Restaurants |
-| Full dataset size | 660 records |
-| Free sample size | 66 records (10.0%) |
-| Last export | 2026-04-16T09:25:21.494344+00:00 |
+| Full dataset size | 661 records |
+| Free sample size | 66 records (9.98%) |
+| Last export | 2026-04-23T09:24:28.634633+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-santa-clarita-california-us-sample-905381/releases/download/sample-latest/beamstation_905381_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
