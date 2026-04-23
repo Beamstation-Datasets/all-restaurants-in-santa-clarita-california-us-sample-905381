@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Santa Clarita, California with a population of over 228k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
   "config_name": "All Restaurants in Santa Clarita, California, US",
-  "export_job_id": "a2e34387-22d5-4236-8242-2a1644e3052d",
+  "export_job_id": "8a8a50ec-0d36-405b-bf33-2eab04dbe91c",
   "github_org": "Beamstation-Datasets",
   "id_short": 905381,
   "location_name": "Santa Clarita",
   "location_type": "city",
   "repo_name": "all-restaurants-in-santa-clarita-california-us-sample-905381",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/905381/beamstation_905381_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 10.0,
+  "sample_pct": 9.98,
   "sample_records": 66,
-  "sample_sha256": "4e8db63688b885f6cafe0d7b6ea79aab9a7cf443ae70df779a0d0263adab15c1",
-  "sample_size_bytes": 260128,
-  "total_records": 660,
-  "updated_at": "2026-04-16T09:25:21.494344+00:00"
+  "sample_sha256": "e26437f53127515ef84c158d6550c028ed4314dba523d93ba457b02cebcf7852",
+  "sample_size_bytes": 250515,
+  "total_records": 661,
+  "updated_at": "2026-04-23T09:24:28.634633+00:00"
 }
